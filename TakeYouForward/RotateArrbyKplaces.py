@@ -1,3 +1,6 @@
+# Look the take u forward rotate arrray by k places to know why we wrote d=d%n
+
+
 def rotate(arr, d):
     n=len(arr)
     d%=n
