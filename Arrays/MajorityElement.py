@@ -37,10 +37,10 @@ def majorityEle(arr):
     #         cnt+=1
     # if cnt1 > n//2:
     #     return ele
-    return ele
+        return ele
               
 
 if __name__ == "__main__":
-	arr = [1, 3, 2, 1, 3, 5, 1, 5, 5]
+	arr = [1, 3, 3, 2, 1, 3, 5, 5]
 	print(majorityEle(arr))
 
