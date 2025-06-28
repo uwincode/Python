@@ -18,7 +18,7 @@
 
 #     return rotated
 
-# Optimal soln : no extra space...fonish it in the same matrix
+# Optimal soln : no extra space...finish it in the same matrix
 def RotateMatrix(mat):
     n = len(mat)
     m = len(mat[0])
