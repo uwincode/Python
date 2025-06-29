@@ -11,7 +11,6 @@
 #     return res
 
 # Better approach
- 
 def maxProdSubarray(arr):
     res = float('-inf')
     n = len(arr)
