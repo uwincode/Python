@@ -6,7 +6,7 @@ def subset(idx, total, res, arr):
     
     subset(idx + 1, total + arr[idx], res, arr)
     subset(idx + 1, total, res, arr)
-    
+
 
 if __name__ == "__main__":
     arr = [3, 1, 2]
